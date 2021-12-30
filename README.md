@@ -1,6 +1,6 @@
 # Deep learning-based EEG analysis: investigating P3 ERP components
 
-Codes related to the paper "Deep learning-based EEG analysis: investigating P3 ERP components" D. Borra and E. Magosso (2021), https://doi.org/10.31083/j.jin2004083.
+Codes related to the paper "Deep learning-based EEG analysis: investigating P3 ERP components" D. Borra and E. Magosso. J. Integr. Neurosci. 2021, 20(4), 791–811. https://doi.org/10.31083/j.jin2004083.
 
 In this repository the codes to explain CNN decision for P300 decoding are reported.
 
